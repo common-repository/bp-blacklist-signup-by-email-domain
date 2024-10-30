@@ -1,0 +1,91 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BP Blacklist Signup By Email Domain\n"
+"POT-Creation-Date: 2021-02-10 15:15+0000\n"
+"PO-Revision-Date: 2021-02-10 15:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bp-blacklist-signup-by-email-domain.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: bp-blacklist-signup-by-email-domain.php:176
+msgid ""
+"Registrations are currently will not be allowed for email addresses from "
+"these domains - {{domains}}. If you are having difficulty, please write to "
+"{{adminemail}} to request an account."
+msgstr ""
+
+#: bp-blacklist-signup-by-email-domain.php:183
+msgid "This email address is not allowed. Please use another domain"
+msgstr ""
+
+#: bp-bsed-admin.php:82
+msgid "Email Address Restrictions"
+msgstr ""
+
+#: bp-bsed-admin.php:86
+msgid "Blacklist Email Domains"
+msgstr ""
+
+#: bp-bsed-admin.php:95
+msgid "Error Message"
+msgstr ""
+
+#: bp-bsed-admin.php:104
+msgid "Registration Message"
+msgstr ""
+
+#: bp-bsed-admin.php:122
+msgid ""
+"Limit site registrations to exclude certain domains. One domain per line."
+msgstr ""
+
+#: bp-bsed-admin.php:135
+msgid ""
+"When a user enters an email address that matches a blacklisted domain, this "
+"error message gets displayed.  You can use the {{domains}} token to list the "
+"email domains that are allowed."
+msgstr ""
+
+#: bp-bsed-admin.php:148
+msgid ""
+"Enter a custom message to display on the registration page. This will be "
+"shown right before the registration form.  You can use the {{domains}} token "
+"to list the email domains that are not allowed and the {{adminemail}} token "
+"to display the email address of the administrator.  Leave blank if desired."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BP Blacklist Signup By Email Domain"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://buddyuser.com/plugin-bp-blcklist-signup-by-email-domain/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Only allow users with email addresses from domains not in the blacklist to "
+"register in BuddyPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Venutius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://buddyuser.com"
+msgstr ""
